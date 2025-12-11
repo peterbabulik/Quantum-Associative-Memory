@@ -78,7 +78,7 @@ scikit-learn>=1.1.0
 ### Option 2: Local Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/Quantum-Associative-Memory.git
+git clone https://github.com/peterbabulik/Quantum-Associative-Memory
 cd Quantum-Associative-Memory
 ```
 
